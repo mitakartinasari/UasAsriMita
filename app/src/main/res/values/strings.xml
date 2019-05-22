@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UasOlshop</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_Search">Search</string>
+    <string-array name="array_country">
+        <item>Mita Kartina Sari</item>
+    </string-array>
+
+</resources>
